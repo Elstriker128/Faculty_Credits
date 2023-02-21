@@ -1,0 +1,8 @@
+C:\Users\User\OneDrive\Desktop\VSP\Faculty_Credits\bin\Debug\Faculty_Credits.exe.config
+C:\Users\User\OneDrive\Desktop\VSP\Faculty_Credits\bin\Debug\Faculty_Credits.exe
+C:\Users\User\OneDrive\Desktop\VSP\Faculty_Credits\bin\Debug\Faculty_Credits.pdb
+C:\Users\User\OneDrive\Desktop\VSP\Faculty_Credits\obj\Debug\Faculty_Credits.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\VSP\Faculty_Credits\obj\Debug\Faculty_Credits.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\VSP\Faculty_Credits\obj\Debug\Faculty_Credits.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\VSP\Faculty_Credits\obj\Debug\Faculty_Credits.exe
+C:\Users\User\OneDrive\Desktop\VSP\Faculty_Credits\obj\Debug\Faculty_Credits.pdb

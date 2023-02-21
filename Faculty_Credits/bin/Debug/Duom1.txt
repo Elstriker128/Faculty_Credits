@@ -1,0 +1,4 @@
+Informatikos, 10
+Srouga, Balys, IFF-2/5, 5, 9, 7
+Baulis, Laris, IFF-2/14, 4, 2, 1
+Boruta, Kazys, IFF-2/5, 4, 5, 19

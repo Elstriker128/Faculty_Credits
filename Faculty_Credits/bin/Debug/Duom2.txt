@@ -1,0 +1,5 @@
+Matematikos, 15
+Keris, Garis, IFM-2/17, 1, 5, 7
+Basanavicius, Jonas, IFM-2/4, 1, 3, 9
+Lekius, Bronius, IFM-2/7, 4, 8, 9
+Medzius, Kazys, IFM-2/5, 7, 8, 9
